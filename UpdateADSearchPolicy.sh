@@ -1,4 +1,5 @@
 #!/bin/bash
+## I can't find the sources that I used, so hopefully this isn't a straight copy and paste, but I want to keep a reference in case I need it again.
 
 ## Disable all domains
 dsconfigad -alldomains disable 
